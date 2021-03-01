@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to Toybrotas Github
+# Have a look around and please send questions to our email.
 
-<!--
-**toybrotas/toybrotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Most things in here are open source under MIT License.
 
-Here are some ideas to get you started:
+## Here are a couple things to help you get to know us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 We are currently working on developing a Website and a Storepage on said webpage.
+
+# 💬 Ask us about our stickers and apparel.
+
+# 📫 How to reach us: You can email us at toybrotas@gmail.com
+
+# ⚡ Fun fact: We are two homies based in Portland, OR.
